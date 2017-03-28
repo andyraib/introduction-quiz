@@ -2,7 +2,7 @@
 	
 #INSTRUCCIONES 
 
-1. Instalar electisearch y levantar el servicio con 'sudo systemctl start elasticsearch.service'
+1. Instalar electisearch y levantar el servicio con '''sudo systemctl start elasticsearch.service'''
 
 2. El programa es compatible con la versión de python 2.7. 
 
