@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Infraestructura para el almecenaminto de datos entre las cuales se encuentra Cloud  computing y la Big data. . El almacenamiento de la información puede ser publica, privada o hibrida y el datos es la unidad minima de información. "
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "Cruce de los datos estructurados y no estructurados, manejor de los tipos de datos."
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Cada variable en una columna. Una tabla por cada tipo de variable.Una observación diferente para cada tipo de dato"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "CSV, json, mysql, XML, txt"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "Extraer información de sitios web usando SW. (Inspeccionar )"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "cambinar datos que provienen de diferentes fuentes. "
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "colección y manipulación de datos para producir información"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "limpieza, transformación, mezcla, forma"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "limpieza, transformación, mezcla, forma"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "Se consume bajo demanda y el dato cambia con el tiempo"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "Predefinidos en la nube y son escalables."
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "proceso de inspección, limpieza y transformación y modelo de datos con el proposito de usar la información"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "retención, adquisición y uso"
+		}
+	]	
+}
