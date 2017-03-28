@@ -2,7 +2,7 @@
 	"quiz": [
 		{
 			"question": "Describe with your own words. What is a Data Platform?",
-			"answer": "Infraestructura para el almecenaminto de datos entre las cuales se encuentra Cloud  computing y la Big data. . El almacenamiento de la información puede ser publica, privada o hibrida y el datos es la unidad minima de información. "
+			"answer": "Infraestructura para el almacenaminto de datos entre las cuales se encuentra Cloud  computing y la Big data. . El almacenamiento de la información puede ser publica, privada o hibrida y el datos es la unidad minima de información. "
 		},
 		{
 			"question": "In the 3 V's of big data. How would you describe Variety?",
@@ -22,19 +22,19 @@
 		},
 		{
 			"question": "What is data integration?",
-			"answer": "cambinar datos que provienen de diferentes fuentes. "
+			"answer": "Cambinar datos que provienen de diferentes fuentes. "
 		},
 		{
 			"question": "What is data processing?",
-			"answer": "colección y manipulación de datos para producir información"
+			"answer": "Colección y manipulación de datos para producir información"
 		},
 		{
 			"question": "Mention some common data processing tasks",
-			"answer": "limpieza, transformación, mezcla, forma"
+			"answer": "Limpieza, transformación, mezcla, forma"
 		},
 		{
 			"question": "Mention some common data processing tasks",
-			"answer": "limpieza, transformación, mezcla, forma"
+			"answer": "Limpieza, transformación, mezcla, forma"
 		},
 		{
 			"question": "What is Data as a Service?",
@@ -46,11 +46,11 @@
 		},
 		{
 			"question": "What is data anlysis?",
-			"answer": "proceso de inspección, limpieza y transformación y modelo de datos con el proposito de usar la información"
+			"answer": "Proceso de inspección, limpieza y transformación y modelo de datos con el proposito de usar la información"
 		},
 		{
 			"question": "Mention some typical use cases for data analysis",
-			"answer": "retención, adquisición y uso"
+			"answer": "Retención, adquisición y uso"
 		}
 	]	
 }
